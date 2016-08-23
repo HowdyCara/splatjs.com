@@ -1,6 +1,6 @@
 # Splatjs.com website
 #### by Alex Bezuska
- Website for the open source web technology- based game engine Splat. 
+ Website for the open source web technology-based game engine Splat. 
 <https://github.com/SplatJS/splat-ecs>
 
 # How to get help
@@ -14,12 +14,12 @@
 
 **Please be sure to include any or all of the following information:**
 * **name** - The name of your game.
-* **source** - This is usually a github link, you are not required to share your source to be on the site.
+* **source** - This is usually a github link, you are not required to share your source to be on the site
 * **platforms** - These are links to where people can play/buy/download your game example: web, chrome, mac, linux (please include links!)
 * **license** - This will let others know if your game is open source, if you are unsure just use 'proprietary'
 * **image** - Image required, gifs are awesome (size 315x 250)
 * **teamMembers** - Here you can list the people or studio that made the game
-* **descripion** - A short 1-3 sentance description of the game.
+* **description** - A short 1-3 sentence description of the game
 * **splat version** - This can be found in package.json
 * **lastchange** - This is the date you released the game or stopped working on it
 * **jams** - List any jams the game was submitted to with names and links to the game's jam page(s)
