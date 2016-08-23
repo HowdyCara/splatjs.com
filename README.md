@@ -18,15 +18,15 @@
 * **platforms** - These are links to where people can play/buy/download your game example: web, chrome, mac, linux (please include links!)
 * **license** - This will let others know if your game is open source, if you are unsure just use 'proprietary'
 * **image** - Image required, gifs are awesome (size 315x 250)
-* **teamMembers** - Here you can list the people or studio that made the game
+* **team member names** - Here you can list the people or studio that made the game
 * **description** - A short 1-3 sentence description of the game
 * **splat version** - This can be found in package.json
-* **lastchange** - This is the date you released the game or stopped working on it
+* **last change date** - This is the date you released the game or stopped working on it
 * **jams** - List any jams the game was submitted to with names and links to the game's jam page(s)
 
-#### Three ways to submit:
+#### Three different ways to submit:
 
-##### [1] Submit your game as a pull request
+##### [1] Preferred: Submit your game as a pull request
 If you are familiar with git, github, and pull requests you can:
 * Fork this project and clone your fork to your local machine (or edit on github)
 * Make edits to the appropriate js file located in`html/js/games.js`
