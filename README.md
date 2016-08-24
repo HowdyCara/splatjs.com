@@ -30,7 +30,7 @@
 If you are familiar with git, github, and pull requests you can:
 * Fork this project and clone your fork to your local machine (or edit on github)
 * Make edits to the appropriate js file located in`html/js/games.js`
-* Submit a pull request to the master branch with your changes and a brief description.
+* Submit a pull request to the master branch with your changes and a brief description
 
 ##### [2] Submit your game as an issue on github
 If you don't know how to make a pull request or are not sure:
@@ -38,7 +38,7 @@ If you don't know how to make a pull request or are not sure:
 * for the issue title you can say something like "please add X game to the site"
 
 ##### [3] Email info about your game to the site maintainer
-If you don't have a github account you can email me.
+If you don't have a github account you can email me
 * Send your game info to <alex@twoscoopgames.com>
 
 ---
